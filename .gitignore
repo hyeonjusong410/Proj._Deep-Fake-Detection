@@ -7,3 +7,8 @@ dataset/CelebA/
 *.ipynb_checkpoints
 __pycache__/
 Proj._Deep-Fake-Detection/
+dataset/FFHQ/
+dataset/CelebA/
+*.ipynb_checkpoints
+__pycache__/
+Proj._Deep-Fake-Detection/
