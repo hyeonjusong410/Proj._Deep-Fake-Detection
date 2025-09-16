@@ -1,0 +1,4 @@
+dataset/FFHQ/
+dataset/CelebA/
+*.ipynb_checkpoints
+__pycache__/
